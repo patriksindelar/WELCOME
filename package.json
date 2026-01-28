@@ -1,0 +1,16 @@
+{
+  "name": "patrik-welcome-bot",
+  "version": "1.0.0",
+  "description": "Discord welcome bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^17.2.3"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
